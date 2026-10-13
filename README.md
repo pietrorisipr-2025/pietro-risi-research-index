@@ -33,3 +33,8 @@ Original historical files were compared to the current source by exact SHA-256 a
 ## Last prepublication rights/AI pass (v0.5)
 
 All seven repository ZIPs now contain `LICENSE_POLICY.md`, `RIGHTS_SCOPE_MATRIX.csv`, `AI_ASSISTANCE_AND_VALIDATION.md`, and `PUBLICATION_APPROVAL_REQUIRED.md`. Original Zenodo source bytes have not been changed. These are **public GitHub repository names and links**. The operator attested to the rights and AI-disclosure review before publication; this is not an independent legal or scientific verification.
+
+## Additional open research archive — CC_CAUSAL_EXPANSION
+
+<!-- CC_CAUSAL_EXPANSION GITHUB LINK -->
+[CC_CAUSAL_EXPANSION](https://github.com/pietrorisipr-2025/cc-causal-expansion) is an exploratory, extensively AI-assisted record on causal-light kinematics, causal sets and conditional quantum growth (not peer-reviewed). The current scientific checkpoint is **v1.03**, with a 374-page cumulative working notebook, a six-page English overview, LaTeX and 104 figures, plus a dated correction to the historical XL claim. No autonomous cosmological H(z) law was derived.
